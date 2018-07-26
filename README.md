@@ -13,7 +13,7 @@
 
 针对性能评测图像库中的车牌，采用检测角点再进行图像处理之后输入到基于DenseNet的CTC模型中进行识别。
 
-![Pipeline](/PipeLine.png)
+![Pipeline](./Pipeline.png)
 
 ### 依赖项
 
