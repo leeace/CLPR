@@ -31,6 +31,6 @@
 ### 代码使用
 
 运行如下代码即可对测试集图片进行测试：
-''' python inference.py --gpu_id 0 --dataroot {dataroot} '''
+``` python inference.py --gpu_id <gpu_id> --dataroot <dataroot> ```
 
 其中，gpu_id为使用的GPU序号，dataroot为测试集数据的根目录。
